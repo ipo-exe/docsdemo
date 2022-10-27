@@ -1,6 +1,6 @@
 # docsdemo
 
-![logo](https://github.com/ipo-exe/docsdemos/blob/main/docs/logo.png "Logo")
+![logo](https://github.com/ipo-exe/docsdemo/blob/main/docs/logo.png "Logo")
 # `plans3` - **Planning Nature-based Solutions**
 
 Demo project for Read the Docs
