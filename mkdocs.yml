@@ -1,5 +1,5 @@
 site_name: Basic MkDocs Demo Project
-pages:
+nav:
 - Home: 'index.md'
 - User Guide: 'usage.md'
 - I/O files: 'iofiles.md'
