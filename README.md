@@ -6,6 +6,6 @@
 
 # `plans3` - **Planning Nature-based Solutions**
 
-Demo project for Read the Docs
+Demo project for Read the Docs using MkDocs
 
 Start here: 
