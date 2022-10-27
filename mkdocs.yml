@@ -3,6 +3,7 @@ nav:
 - Home: 'index.md'
 - User Guide: 'usage.md'
 - I/O files: 'iofiles.md'
+- API Refence: 'api.md'
 theme:
   name: readthedocs
   highlightjs: true
