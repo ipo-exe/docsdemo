@@ -3,15 +3,9 @@
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 ![logo](docs/img/logo.png)
+
 # `plans3` - **Planning Nature-based Solutions**
 
 Demo project for Read the Docs
 
-## Section 1
-
-text
-
-## Section 2
-
-text
-
+Start here: 
