@@ -1,7 +1,7 @@
 """
-Lumache - Python library for cooks and food lovers.
+# Lumache - Python library for cooks and food lovers.
 
-This is a Python docstring, we can use Markdown syntax here because
+This is a Python **docstring**, we can use Markdown syntax here because
 our API documentation library understands it (mkdocstrings).
 
     # Import lumache
