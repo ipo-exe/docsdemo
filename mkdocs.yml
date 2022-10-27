@@ -1,4 +1,8 @@
 site_name: Basic MkDocs Demo Project
+pages:
+- Home: 'index.md'
+- User Guide: 'usage.md'
+- I/O files: 'iofiles.md'
 theme:
   name: readthedocs
   highlightjs: true
