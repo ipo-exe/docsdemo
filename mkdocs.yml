@@ -1,6 +1,6 @@
 site_name: Basic MkDocs Demo Project
 theme:
-  name: readthedocsdemo
+  name: readthedocs
   highlightjs: true
 plugins:
   - search
